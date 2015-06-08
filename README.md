@@ -17,6 +17,10 @@ Please read the [OpenAL 1.1 Spefication](http://www.openal.org/documentation/ope
 > **Note:** On Windows you have to ship your application with **OpenAL32.dll** and **wrap_oal.dll**.
 Consider OpenAL's license before.
 
+# Screenshot
+Screenshot taken from the *example/capture-audio.bmx* example. It shows the captured wavefrom and the intensity calculated by root mean sqaure.
+![screenshot](https://cloud.githubusercontent.com/assets/10528519/8035838/fbc8605c-0df3-11e5-9a89-d019a4ad2fe6.png "Screenshot taken from the capture-audio.bmx example")
+
 # Example
 This example list all available capture devices. See the **example** folder for more examples.
 ```blitzmax
